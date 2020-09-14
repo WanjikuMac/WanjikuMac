@@ -4,6 +4,8 @@ Working on bus booking and hotel orders
 
 Erlang and Elixir to the core 
 
+If I'm not here find me on gitlab 
+
  * Fun fact: Robots, biking 🚴🏽‍  🏊🏽‍ I'm game 
  
 <!--
