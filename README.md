@@ -1,5 +1,11 @@
-### Hi there 👋
+### Work in Progress 🚧
 
+Working on bus booking and hotel orders 
+
+Erlang and Elixir to the core 
+
+ * Fun fact: Robots, biking 🚴🏽‍ 🏊🏽‍ I'm game 
+ 
 <!--
 **WanjikuMac/WanjikuMac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
