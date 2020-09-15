@@ -4,7 +4,7 @@ Working on bus booking and hotel orders
 
 Erlang and Elixir to the core 
 
-If I'm not here find me on gitlab 
+If I'm not here find me on [gitlab](https://gitlab.com/wanjiku_macharia) 
 
  * Fun fact: Robots, biking 🚴🏽‍  🏊🏽‍ I'm game 
  
