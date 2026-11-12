@@ -9,7 +9,7 @@ I am currently working on the following applications: SMS, IVR, USSD and chatbot
 
 
 ### Avocations
- * I adore robots and enjoy tinkering with Arduino and Raspberry Pie.
+ * I adore robots and enjoy tinkering with Arduino and Raspberry Pi.
  * biking 🚴🏽‍
  * swimming 🏊🏽‍ 
 
